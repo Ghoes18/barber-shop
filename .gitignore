@@ -90,3 +90,6 @@ temp/
 
 # Prisma
 prisma/migrations/
+
+# Vercel
+.vercel
